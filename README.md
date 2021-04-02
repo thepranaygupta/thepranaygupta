@@ -5,7 +5,7 @@
 
 - 🔭 I’m currently working on **Web Development**
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Data Structures in JAVA**
 
 - 👨‍💻 All of my projects are available [here](https://github.com/thepranaygupta?tab=repositories)
 
