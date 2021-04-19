@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px">, I'm Pranay Gupta</h1>
+<h1 align="center">Hi, <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="35px"> I'm Pranay Gupta</h1>
 <h3 align="center">I am an Information Technology Student from India.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=thepranaygupta&label=Profile%20views&color=0e75b6&style=flat" alt="thepranaygupta" /> </p>
