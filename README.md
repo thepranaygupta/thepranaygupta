@@ -2,6 +2,8 @@
 <h3 align="center">I am an Information Technology Student from India.</h3>
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=thepranaygupta&label=Profile%20views&color=0e75b6&style=flat" alt="thepranaygupta" /> </p>
 
+- 🔭 I’m currently working as a contributor in an *Open Source Contribution Program* **[GWoC'21](https://gwoc.girlscript.tech/)**
+
 - 🔭 I’m currently working on **Web Development**
 
 - 🌱 I’m currently learning **Data Structures in JAVA**
