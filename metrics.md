@@ -1,0 +1,2 @@
+
+![Metrics](https://metrics.lecoq.io/thepranaygupta?template=classic&lines=1&achievements=1&repositories=1&tweets=1&repositories=100&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&tweets.attachments=true&tweets.limit=2&tweets.user=thepranaygupta&config.timezone=Asia%2FKolkata)
