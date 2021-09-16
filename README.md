@@ -13,6 +13,7 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 <!-- [![Youtube Badge](https://img.shields.io/badge/-YouTube-darkred?style=flat-square&logo=youtube&logoColor=white&link=https://www.youtube.com/channel/channel_id)](https://www.youtube.com/channel/channel_id) -->
 
 [![Pranay's github activity graph](https://activity-graph.herokuapp.com/graph?username=thepranaygupta&theme=xcode)](https://github.com/thepranaygupta)
+ 
 ## 👨🏻‍💻 Coding Profiles
 
 [![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=LeetCode&logoColor=black)](https://leetcode.com/thepranaygupta/)
@@ -20,6 +21,7 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 [![HackerRank](https://img.shields.io/badge/-HackerRank-2EC866?style=flat-square&logo=HackerRank&logoColor=white)](https://www.hackerrank.com/thepranaygupta)
 [![CodeChef](https://img.shields.io/badge/-CodeChef-5B4638?style=flat-square&logo=CodeChef&logoColor=white)](https://www.codechef.com/users/thepranaygupta)
 
+<img align='right' src="https://user-images.githubusercontent.com/64855541/133657615-ccb22336-f4db-408e-bc30-af7ff09608e7.png" width="330">
 
 ## ⚡ Technologies
 
