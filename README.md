@@ -71,4 +71,7 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thepranaygupta&theme=tokyonight" />
 </p>
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
