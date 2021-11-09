@@ -71,6 +71,7 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thepranaygupta&theme=tokyonight" />
 </p>
 
+## :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#47](https://github.com/EddieHubCommunity/EventCalendar/issues/47) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
 2. 🗣 Commented on [#46](https://github.com/EddieHubCommunity/EventCalendar/issues/46) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
