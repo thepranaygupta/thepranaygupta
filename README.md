@@ -73,11 +73,11 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#46](https://github.com/EddieHubCommunity/EventCalendar/issues/46) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
-2. 🗣 Commented on [#47](https://github.com/EddieHubCommunity/EventCalendar/issues/47) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
-3. 🗣 Commented on [#46](https://github.com/EddieHubCommunity/EventCalendar/issues/46) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
-4. 💪 Opened PR [#7](https://github.com/Dezenix/frontend-html-css-js/pull/7) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
-5. 💪 Opened PR [#4](https://github.com/Dezenix/website-screens/pull/4) in [Dezenix/website-screens](https://github.com/Dezenix/website-screens)
+1. 🎉 Merged PR [#1](https://github.com/thepranaygupta/50-Days-of-JavaScript/pull/1) in [thepranaygupta/50-Days-of-JavaScript](https://github.com/thepranaygupta/50-Days-of-JavaScript)
+2. 🗣 Commented on [#46](https://github.com/EddieHubCommunity/EventCalendar/issues/46) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+3. 🗣 Commented on [#47](https://github.com/EddieHubCommunity/EventCalendar/issues/47) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+4. 🗣 Commented on [#46](https://github.com/EddieHubCommunity/EventCalendar/issues/46) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+5. 💪 Opened PR [#7](https://github.com/Dezenix/frontend-html-css-js/pull/7) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
 <!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
