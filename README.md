@@ -73,10 +73,10 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#65](https://github.com/EddieHubCommunity/EventCalendar/pull/65) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
-2. 🎉 Merged PR [#1](https://github.com/thepranaygupta/50-Days-of-JavaScript/pull/1) in [thepranaygupta/50-Days-of-JavaScript](https://github.com/thepranaygupta/50-Days-of-JavaScript)
-3. 🗣 Commented on [#46](https://github.com/EddieHubCommunity/EventCalendar/issues/46) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
-4. 🗣 Commented on [#47](https://github.com/EddieHubCommunity/EventCalendar/issues/47) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+1. 🗣 Commented on [#344](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/issues/344) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+2. 🗣 Commented on [#343](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/issues/343) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+3. 💪 Opened PR [#65](https://github.com/EddieHubCommunity/EventCalendar/pull/65) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+4. 🎉 Merged PR [#1](https://github.com/thepranaygupta/50-Days-of-JavaScript/pull/1) in [thepranaygupta/50-Days-of-JavaScript](https://github.com/thepranaygupta/50-Days-of-JavaScript)
 5. 🗣 Commented on [#46](https://github.com/EddieHubCommunity/EventCalendar/issues/46) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
 <!--END_SECTION:activity-->
 
