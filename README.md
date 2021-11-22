@@ -73,11 +73,11 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#3](https://github.com/thepranaygupta/50-Days-of-JavaScript/pull/3) in [thepranaygupta/50-Days-of-JavaScript](https://github.com/thepranaygupta/50-Days-of-JavaScript)
-2. 🎉 Merged PR [#2](https://github.com/thepranaygupta/50-Days-of-JavaScript/pull/2) in [thepranaygupta/50-Days-of-JavaScript](https://github.com/thepranaygupta/50-Days-of-JavaScript)
-3. 🗣 Commented on [#344](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/issues/344) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
-4. 🗣 Commented on [#343](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/issues/343) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
-5. 💪 Opened PR [#65](https://github.com/EddieHubCommunity/EventCalendar/pull/65) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+1. 🗣 Commented on [#48](https://github.com/EddieHubCommunity/EventCalendar/issues/48) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+2. 🎉 Merged PR [#3](https://github.com/thepranaygupta/50-Days-of-JavaScript/pull/3) in [thepranaygupta/50-Days-of-JavaScript](https://github.com/thepranaygupta/50-Days-of-JavaScript)
+3. 🎉 Merged PR [#2](https://github.com/thepranaygupta/50-Days-of-JavaScript/pull/2) in [thepranaygupta/50-Days-of-JavaScript](https://github.com/thepranaygupta/50-Days-of-JavaScript)
+4. 🗣 Commented on [#344](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/issues/344) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+5. 🗣 Commented on [#343](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/issues/343) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
 <!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
