@@ -73,11 +73,11 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/Dezenix/.github/pull/2) in [Dezenix/.github](https://github.com/Dezenix/.github)
-2. 🗣 Commented on [#694](https://github.com/EddieHubCommunity/LinkFree/issues/694) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-3. 🎉 Merged PR [#4](https://github.com/Dezenix/native-frontend-flutter/pull/4) in [Dezenix/native-frontend-flutter](https://github.com/Dezenix/native-frontend-flutter)
-4. 💪 Opened PR [#8253](https://github.com/girlscript/winter-of-contributing/pull/8253) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-5. 💪 Opened PR [#8242](https://github.com/girlscript/winter-of-contributing/pull/8242) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+1. 💪 Opened PR [#695](https://github.com/EddieHubCommunity/LinkFree/pull/695) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🎉 Merged PR [#2](https://github.com/Dezenix/.github/pull/2) in [Dezenix/.github](https://github.com/Dezenix/.github)
+3. 🗣 Commented on [#694](https://github.com/EddieHubCommunity/LinkFree/issues/694) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+4. 🎉 Merged PR [#4](https://github.com/Dezenix/native-frontend-flutter/pull/4) in [Dezenix/native-frontend-flutter](https://github.com/Dezenix/native-frontend-flutter)
+5. 💪 Opened PR [#8253](https://github.com/girlscript/winter-of-contributing/pull/8253) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
 <!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
