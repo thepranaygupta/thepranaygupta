@@ -73,11 +73,11 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/Dezenix/native-frontend-flutter/pull/4) in [Dezenix/native-frontend-flutter](https://github.com/Dezenix/native-frontend-flutter)
-2. 💪 Opened PR [#8253](https://github.com/girlscript/winter-of-contributing/pull/8253) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-3. 💪 Opened PR [#8242](https://github.com/girlscript/winter-of-contributing/pull/8242) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
-4. 💪 Opened PR [#77](https://github.com/EddieHubCommunity/EventCalendar/pull/77) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
-5. 🗣 Commented on [#48](https://github.com/EddieHubCommunity/EventCalendar/issues/48) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
+1. 🗣 Commented on [#694](https://github.com/EddieHubCommunity/LinkFree/issues/694) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
+2. 🎉 Merged PR [#4](https://github.com/Dezenix/native-frontend-flutter/pull/4) in [Dezenix/native-frontend-flutter](https://github.com/Dezenix/native-frontend-flutter)
+3. 💪 Opened PR [#8253](https://github.com/girlscript/winter-of-contributing/pull/8253) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+4. 💪 Opened PR [#8242](https://github.com/girlscript/winter-of-contributing/pull/8242) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+5. 💪 Opened PR [#77](https://github.com/EddieHubCommunity/EventCalendar/pull/77) in [EddieHubCommunity/EventCalendar](https://github.com/EddieHubCommunity/EventCalendar)
 <!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
