@@ -73,11 +73,11 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#695](https://github.com/EddieHubCommunity/LinkFree/pull/695) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-2. 🎉 Merged PR [#2](https://github.com/Dezenix/.github/pull/2) in [Dezenix/.github](https://github.com/Dezenix/.github)
-3. 🗣 Commented on [#694](https://github.com/EddieHubCommunity/LinkFree/issues/694) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
-4. 🎉 Merged PR [#4](https://github.com/Dezenix/native-frontend-flutter/pull/4) in [Dezenix/native-frontend-flutter](https://github.com/Dezenix/native-frontend-flutter)
-5. 💪 Opened PR [#8253](https://github.com/girlscript/winter-of-contributing/pull/8253) in [girlscript/winter-of-contributing](https://github.com/girlscript/winter-of-contributing)
+1. 🎉 Merged PR [#11](https://github.com/Dezenix/frontend-html-css-js/pull/11) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
+2. 🎉 Merged PR [#5](https://github.com/Dezenix/android-frontend-java/pull/5) in [Dezenix/android-frontend-java](https://github.com/Dezenix/android-frontend-java)
+3. 🎉 Merged PR [#4](https://github.com/Dezenix/frontend-vue/pull/4) in [Dezenix/frontend-vue](https://github.com/Dezenix/frontend-vue)
+4. 🎉 Merged PR [#4](https://github.com/Dezenix/frontend-angular/pull/4) in [Dezenix/frontend-angular](https://github.com/Dezenix/frontend-angular)
+5. 💪 Opened PR [#695](https://github.com/EddieHubCommunity/LinkFree/pull/695) in [EddieHubCommunity/LinkFree](https://github.com/EddieHubCommunity/LinkFree)
 <!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
