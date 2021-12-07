@@ -73,11 +73,11 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#16](https://github.com/Dezenix/frontend-reactjs/pull/16) in [Dezenix/frontend-reactjs](https://github.com/Dezenix/frontend-reactjs)
-2. 🎉 Merged PR [#11](https://github.com/Dezenix/frontend-html-css-js/pull/11) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
-3. 🎉 Merged PR [#5](https://github.com/Dezenix/android-frontend-java/pull/5) in [Dezenix/android-frontend-java](https://github.com/Dezenix/android-frontend-java)
-4. 🎉 Merged PR [#4](https://github.com/Dezenix/frontend-vue/pull/4) in [Dezenix/frontend-vue](https://github.com/Dezenix/frontend-vue)
-5. 🎉 Merged PR [#4](https://github.com/Dezenix/frontend-angular/pull/4) in [Dezenix/frontend-angular](https://github.com/Dezenix/frontend-angular)
+1. 🗣 Commented on [#13](https://github.com/Dezenix/frontend-html-css-js/issues/13) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
+2. 🗣 Commented on [#12](https://github.com/Dezenix/frontend-html-css-js/issues/12) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
+3. 🎉 Merged PR [#16](https://github.com/Dezenix/frontend-reactjs/pull/16) in [Dezenix/frontend-reactjs](https://github.com/Dezenix/frontend-reactjs)
+4. 🎉 Merged PR [#11](https://github.com/Dezenix/frontend-html-css-js/pull/11) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
+5. 🎉 Merged PR [#5](https://github.com/Dezenix/android-frontend-java/pull/5) in [Dezenix/android-frontend-java](https://github.com/Dezenix/android-frontend-java)
 <!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
