@@ -73,11 +73,11 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#12](https://github.com/Dezenix/frontend-html-css-js/issues/12) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
-2. 🎉 Merged PR [#5](https://github.com/thepranaygupta/50-Days-of-JavaScript/pull/5) in [thepranaygupta/50-Days-of-JavaScript](https://github.com/thepranaygupta/50-Days-of-JavaScript)
-3. 🗣 Commented on [#13](https://github.com/Dezenix/frontend-html-css-js/issues/13) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
-4. ❗️ Closed issue [#13](https://github.com/Dezenix/frontend-html-css-js/issues/13) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
-5. 🗣 Commented on [#13](https://github.com/Dezenix/frontend-html-css-js/issues/13) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
+1. 🗣 Commented on [#343](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/issues/343) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+2. ❌ Closed PR [#374](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/374) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+3. ❌ Closed PR [#287](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/287) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+4. 🎉 Merged PR [#378](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/378) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+5. ❗️ Closed issue [#344](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/issues/344) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
 <!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
