@@ -73,11 +73,11 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#19](https://github.com/Dezenix/frontend-html-css-js/pull/19) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
-2. 🎉 Merged PR [#14](https://github.com/Dezenix/frontend-html-css-js/pull/14) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
-3. 🗣 Commented on [#343](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/issues/343) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
-4. ❌ Closed PR [#374](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/374) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
-5. ❌ Closed PR [#287](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/287) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+1. ❗️ Closed issue [#12](https://github.com/Dezenix/frontend-html-css-js/issues/12) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
+2. 🎉 Merged PR [#27](https://github.com/Dezenix/frontend-html-css-js/pull/27) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
+3. ❗️ Closed issue [#18](https://github.com/Dezenix/frontend-html-css-js/issues/18) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
+4. 🗣 Commented on [#26](https://github.com/Dezenix/frontend-html-css-js/issues/26) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
+5. 🎉 Merged PR [#19](https://github.com/Dezenix/frontend-html-css-js/pull/19) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
 <!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
