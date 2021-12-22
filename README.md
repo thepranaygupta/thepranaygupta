@@ -73,11 +73,11 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Coddict-Community/branding/pull/1) in [Coddict-Community/branding](https://github.com/Coddict-Community/branding)
-2. 🎉 Merged PR [#6](https://github.com/thepranaygupta/50-Days-of-JavaScript/pull/6) in [thepranaygupta/50-Days-of-JavaScript](https://github.com/thepranaygupta/50-Days-of-JavaScript)
-3. ❗️ Opened issue [#74](https://github.com/2024-SANDHYA/Blood-Buddy/issues/74) in [2024-SANDHYA/Blood-Buddy](https://github.com/2024-SANDHYA/Blood-Buddy)
-4. ❗️ Closed issue [#12](https://github.com/Dezenix/frontend-html-css-js/issues/12) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
-5. 🎉 Merged PR [#27](https://github.com/Dezenix/frontend-html-css-js/pull/27) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
+1. 🎉 Merged PR [#2](https://github.com/Coddict-Community/branding/pull/2) in [Coddict-Community/branding](https://github.com/Coddict-Community/branding)
+2. 🎉 Merged PR [#1](https://github.com/Coddict-Community/branding/pull/1) in [Coddict-Community/branding](https://github.com/Coddict-Community/branding)
+3. 🎉 Merged PR [#6](https://github.com/thepranaygupta/50-Days-of-JavaScript/pull/6) in [thepranaygupta/50-Days-of-JavaScript](https://github.com/thepranaygupta/50-Days-of-JavaScript)
+4. ❗️ Opened issue [#74](https://github.com/2024-SANDHYA/Blood-Buddy/issues/74) in [2024-SANDHYA/Blood-Buddy](https://github.com/2024-SANDHYA/Blood-Buddy)
+5. ❗️ Closed issue [#12](https://github.com/Dezenix/frontend-html-css-js/issues/12) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
 <!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
