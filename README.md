@@ -73,11 +73,11 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#30](https://github.com/Dezenix/frontend-html-css-js/issues/30) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
-2. 🗣 Commented on [#29](https://github.com/Dezenix/frontend-html-css-js/issues/29) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
-3. 🎉 Merged PR [#2](https://github.com/Coddict-Community/branding/pull/2) in [Coddict-Community/branding](https://github.com/Coddict-Community/branding)
-4. 🎉 Merged PR [#1](https://github.com/Coddict-Community/branding/pull/1) in [Coddict-Community/branding](https://github.com/Coddict-Community/branding)
-5. 🎉 Merged PR [#6](https://github.com/thepranaygupta/50-Days-of-JavaScript/pull/6) in [thepranaygupta/50-Days-of-JavaScript](https://github.com/thepranaygupta/50-Days-of-JavaScript)
+1. ❗️ Opened issue [#31](https://github.com/Dezenix/frontend-html-css-js/issues/31) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
+2. 🗣 Commented on [#30](https://github.com/Dezenix/frontend-html-css-js/issues/30) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
+3. 🗣 Commented on [#29](https://github.com/Dezenix/frontend-html-css-js/issues/29) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
+4. 🎉 Merged PR [#2](https://github.com/Coddict-Community/branding/pull/2) in [Coddict-Community/branding](https://github.com/Coddict-Community/branding)
+5. 🎉 Merged PR [#1](https://github.com/Coddict-Community/branding/pull/1) in [Coddict-Community/branding](https://github.com/Coddict-Community/branding)
 <!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
