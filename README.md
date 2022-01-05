@@ -73,11 +73,11 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#12](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/12) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
-2. 🎉 Merged PR [#11](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/11) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
-3. 🗣 Commented on [#77](https://github.com/Dezenix/frontend-html-css-js/issues/77) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
-4. 💪 Opened PR [#1](https://github.com/Nidhikumari-4/HTML-and-CSS/pull/1) in [Nidhikumari-4/HTML-and-CSS](https://github.com/Nidhikumari-4/HTML-and-CSS)
-5. ❗️ Opened issue [#77](https://github.com/Dezenix/frontend-html-css-js/issues/77) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
+1. 🎉 Merged PR [#23](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/23) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+2. 🎉 Merged PR [#22](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/22) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+3. 🎉 Merged PR [#21](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/21) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+4. 🎉 Merged PR [#20](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/20) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+5. 🎉 Merged PR [#18](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/18) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
 <!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
