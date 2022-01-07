@@ -73,11 +73,11 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#23](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/23) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
-2. 🎉 Merged PR [#22](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/22) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
-3. 🎉 Merged PR [#21](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/21) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
-4. 🎉 Merged PR [#20](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/20) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
-5. 🎉 Merged PR [#18](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/18) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+1. ❗️ Closed issue [#108](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/108) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+2. 🗣 Commented on [#108](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/108) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+3. ❗️ Closed issue [#115](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/115) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+4. 🎉 Merged PR [#129](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/129) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+5. 💪 Opened PR [#129](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/129) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
 <!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
