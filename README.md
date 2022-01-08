@@ -73,11 +73,11 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#54](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/54) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
-2. 🎉 Merged PR [#53](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/53) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
-3. 🎉 Merged PR [#52](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/52) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
-4. 🎉 Merged PR [#51](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/51) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
-5. 🎉 Merged PR [#50](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/50) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+1. 🎉 Merged PR [#59](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/59) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+2. ❌ Closed PR [#58](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/58) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+3. ❗️ Closed issue [#343](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/issues/343) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+4. ❌ Closed PR [#379](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/379) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+5. 🎉 Merged PR [#380](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/380) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
 <!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
