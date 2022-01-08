@@ -73,11 +73,11 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#72](https://github.com/Dezenix/frontend-html-css-js/issues/72) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
-2. 🗣 Commented on [#6](https://github.com/Dezenix/frontend-reactjs/issues/6) in [Dezenix/frontend-reactjs](https://github.com/Dezenix/frontend-reactjs)
-3. 🗣 Commented on [#6](https://github.com/Dezenix/frontend-reactjs/issues/6) in [Dezenix/frontend-reactjs](https://github.com/Dezenix/frontend-reactjs)
-4. 🗣 Commented on [#69](https://github.com/Dezenix/frontend-html-css-js/issues/69) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
-5. ❗️ Closed issue [#108](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/108) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+1. 🎉 Merged PR [#26](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/26) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+2. 🎉 Merged PR [#24](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/24) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+3. 🎉 Merged PR [#17](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/17) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+4. ❗️ Closed issue [#131](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/131) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+5. 🗣 Commented on [#131](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/131) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
 <!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
