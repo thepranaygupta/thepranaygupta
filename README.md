@@ -73,11 +73,11 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#73](https://github.com/Dezenix/frontend-html-css-js/issues/73) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
-2. ❗️ Closed issue [#154](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/154) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
-3. ❗️ Closed issue [#157](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/157) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
-4. 🗣 Commented on [#157](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/157) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
-5. 🎉 Merged PR [#94](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/pull/94) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+1. 🗣 Commented on [#170](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/170) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+2. ❗️ Closed issue [#73](https://github.com/Dezenix/frontend-html-css-js/issues/73) in [Dezenix/frontend-html-css-js](https://github.com/Dezenix/frontend-html-css-js)
+3. ❗️ Closed issue [#154](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/154) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+4. ❗️ Closed issue [#157](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/157) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+5. 🗣 Commented on [#157](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/157) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
 <!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
