@@ -73,11 +73,11 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#106](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/106) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
-2. 🗣 Commented on [#2](https://github.com/kashyap1905/Covid-tracker/issues/2) in [kashyap1905/Covid-tracker](https://github.com/kashyap1905/Covid-tracker)
+1. 💪 Opened PR [#1](https://github.com/the-amitsingh/365-Days-of-challenge/pull/1) in [the-amitsingh/365-Days-of-challenge](https://github.com/the-amitsingh/365-Days-of-challenge)
+2. 🗣 Commented on [#106](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/106) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
 3. 🗣 Commented on [#2](https://github.com/kashyap1905/Covid-tracker/issues/2) in [kashyap1905/Covid-tracker](https://github.com/kashyap1905/Covid-tracker)
-4. 💪 Opened PR [#2](https://github.com/kashyap1905/Covid-tracker/pull/2) in [kashyap1905/Covid-tracker](https://github.com/kashyap1905/Covid-tracker)
-5. ❗️ Opened issue [#1](https://github.com/kashyap1905/Covid-tracker/issues/1) in [kashyap1905/Covid-tracker](https://github.com/kashyap1905/Covid-tracker)
+4. 🗣 Commented on [#2](https://github.com/kashyap1905/Covid-tracker/issues/2) in [kashyap1905/Covid-tracker](https://github.com/kashyap1905/Covid-tracker)
+5. 💪 Opened PR [#2](https://github.com/kashyap1905/Covid-tracker/pull/2) in [kashyap1905/Covid-tracker](https://github.com/kashyap1905/Covid-tracker)
 <!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
