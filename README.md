@@ -71,11 +71,11 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#7](https://github.com/Dezenix/website-frontend/pull/7) in [Dezenix/website-frontend](https://github.com/Dezenix/website-frontend)
-2. 💪 Opened PR [#7](https://github.com/Dezenix/website-frontend/pull/7) in [Dezenix/website-frontend](https://github.com/Dezenix/website-frontend)
-3. 🎉 Merged PR [#5](https://github.com/Dezenix/website-frontend/pull/5) in [Dezenix/website-frontend](https://github.com/Dezenix/website-frontend)
-4. 💪 Opened PR [#5](https://github.com/Dezenix/website-frontend/pull/5) in [Dezenix/website-frontend](https://github.com/Dezenix/website-frontend)
-5. ❗️ Opened issue [#4](https://github.com/Dezenix/website-frontend/issues/4) in [Dezenix/website-frontend](https://github.com/Dezenix/website-frontend)
+1. 🎉 Merged PR [#8](https://github.com/Dezenix/website-frontend/pull/8) in [Dezenix/website-frontend](https://github.com/Dezenix/website-frontend)
+2. 💪 Opened PR [#8](https://github.com/Dezenix/website-frontend/pull/8) in [Dezenix/website-frontend](https://github.com/Dezenix/website-frontend)
+3. 🎉 Merged PR [#7](https://github.com/Dezenix/website-frontend/pull/7) in [Dezenix/website-frontend](https://github.com/Dezenix/website-frontend)
+4. 💪 Opened PR [#7](https://github.com/Dezenix/website-frontend/pull/7) in [Dezenix/website-frontend](https://github.com/Dezenix/website-frontend)
+5. 🎉 Merged PR [#5](https://github.com/Dezenix/website-frontend/pull/5) in [Dezenix/website-frontend](https://github.com/Dezenix/website-frontend)
 <!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
