@@ -71,11 +71,11 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#9](https://github.com/Dezenix/website-frontend/pull/9) in [Dezenix/website-frontend](https://github.com/Dezenix/website-frontend)
-2. 💪 Opened PR [#9](https://github.com/Dezenix/website-frontend/pull/9) in [Dezenix/website-frontend](https://github.com/Dezenix/website-frontend)
-3. 🎉 Merged PR [#8](https://github.com/Dezenix/website-frontend/pull/8) in [Dezenix/website-frontend](https://github.com/Dezenix/website-frontend)
-4. 💪 Opened PR [#8](https://github.com/Dezenix/website-frontend/pull/8) in [Dezenix/website-frontend](https://github.com/Dezenix/website-frontend)
-5. 🎉 Merged PR [#7](https://github.com/Dezenix/website-frontend/pull/7) in [Dezenix/website-frontend](https://github.com/Dezenix/website-frontend)
+1. ❗️ Closed issue [#90](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/90) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+2. ❗️ Closed issue [#207](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/207) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+3. 🎉 Merged PR [#9](https://github.com/Dezenix/website-frontend/pull/9) in [Dezenix/website-frontend](https://github.com/Dezenix/website-frontend)
+4. 💪 Opened PR [#9](https://github.com/Dezenix/website-frontend/pull/9) in [Dezenix/website-frontend](https://github.com/Dezenix/website-frontend)
+5. 🎉 Merged PR [#8](https://github.com/Dezenix/website-frontend/pull/8) in [Dezenix/website-frontend](https://github.com/Dezenix/website-frontend)
 <!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
