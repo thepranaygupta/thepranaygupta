@@ -71,11 +71,11 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#10](https://github.com/Metaverse-Of-Asansol/AEC-Coding-Club-Website/pull/10) in [Metaverse-Of-Asansol/AEC-Coding-Club-Website](https://github.com/Metaverse-Of-Asansol/AEC-Coding-Club-Website)
-2. 🎉 Merged PR [#9](https://github.com/Metaverse-Of-Asansol/AEC-Coding-Club-Website/pull/9) in [Metaverse-Of-Asansol/AEC-Coding-Club-Website](https://github.com/Metaverse-Of-Asansol/AEC-Coding-Club-Website)
-3. ❗️ Closed issue [#90](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/90) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
-4. ❗️ Closed issue [#207](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/207) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
-5. 🎉 Merged PR [#9](https://github.com/Dezenix/website-frontend/pull/9) in [Dezenix/website-frontend](https://github.com/Dezenix/website-frontend)
+1. 🎉 Merged PR [#4](https://github.com/aec-coding-club/AEC-Coding-Club-Website/pull/4) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
+2. 🎉 Merged PR [#10](https://github.com/Metaverse-Of-Asansol/AEC-Coding-Club-Website/pull/10) in [Metaverse-Of-Asansol/AEC-Coding-Club-Website](https://github.com/Metaverse-Of-Asansol/AEC-Coding-Club-Website)
+3. 🎉 Merged PR [#9](https://github.com/Metaverse-Of-Asansol/AEC-Coding-Club-Website/pull/9) in [Metaverse-Of-Asansol/AEC-Coding-Club-Website](https://github.com/Metaverse-Of-Asansol/AEC-Coding-Club-Website)
+4. ❗️ Closed issue [#90](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/90) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
+5. ❗️ Closed issue [#207](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series/issues/207) in [loveBabbar/CodeHelp-DSA-Busted-Series](https://github.com/loveBabbar/CodeHelp-DSA-Busted-Series)
 <!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
