@@ -71,11 +71,11 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#15](https://github.com/aec-coding-club/AEC-Coding-Club-Website/pull/15) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
-2. 🎉 Merged PR [#384](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/384) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
-3. ❗️ Closed issue [#7](https://github.com/aec-coding-club/AEC-Coding-Club-Website/issues/7) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
-4. 🗣 Commented on [#7](https://github.com/aec-coding-club/AEC-Coding-Club-Website/issues/7) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
-5. 🎉 Merged PR [#8](https://github.com/aec-coding-club/AEC-Coding-Club-Website/pull/8) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
+1. ❌ Closed PR [#390](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/390) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+2. 🎉 Merged PR [#392](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/392) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+3. 🎉 Merged PR [#15](https://github.com/aec-coding-club/AEC-Coding-Club-Website/pull/15) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
+4. 🎉 Merged PR [#384](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/384) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+5. ❗️ Closed issue [#7](https://github.com/aec-coding-club/AEC-Coding-Club-Website/issues/7) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
 <!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
