@@ -71,11 +71,11 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#24](https://github.com/aec-coding-club/AEC-Coding-Club-Website/pull/24) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
-2. 💪 Opened PR [#24](https://github.com/aec-coding-club/AEC-Coding-Club-Website/pull/24) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
-3. ❌ Closed PR [#390](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/390) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
-4. 🎉 Merged PR [#392](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/392) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
-5. 🎉 Merged PR [#15](https://github.com/aec-coding-club/AEC-Coding-Club-Website/pull/15) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
+1. 🎉 Merged PR [#27](https://github.com/aec-coding-club/AEC-Coding-Club-Website/pull/27) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
+2. 🎉 Merged PR [#24](https://github.com/aec-coding-club/AEC-Coding-Club-Website/pull/24) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
+3. 💪 Opened PR [#24](https://github.com/aec-coding-club/AEC-Coding-Club-Website/pull/24) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
+4. ❌ Closed PR [#390](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/390) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+5. 🎉 Merged PR [#392](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/392) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
 <!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
