@@ -71,11 +71,11 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#39](https://github.com/aec-coding-club/AEC-Coding-Club-Website/issues/39) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
-2. 🗣 Commented on [#34](https://github.com/aec-coding-club/AEC-Coding-Club-Website/issues/34) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
+1. ❗️ Opened issue [#40](https://github.com/aec-coding-club/AEC-Coding-Club-Website/issues/40) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
+2. ❗️ Opened issue [#39](https://github.com/aec-coding-club/AEC-Coding-Club-Website/issues/39) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
 3. 🗣 Commented on [#34](https://github.com/aec-coding-club/AEC-Coding-Club-Website/issues/34) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
-4. ❗️ Opened issue [#37](https://github.com/aec-coding-club/AEC-Coding-Club-Website/issues/37) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
-5. ❗️ Opened issue [#36](https://github.com/aec-coding-club/AEC-Coding-Club-Website/issues/36) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
+4. 🗣 Commented on [#34](https://github.com/aec-coding-club/AEC-Coding-Club-Website/issues/34) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
+5. ❗️ Opened issue [#37](https://github.com/aec-coding-club/AEC-Coding-Club-Website/issues/37) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
 <!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
