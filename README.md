@@ -71,11 +71,11 @@ I am Pranay Gupta, currently pursuing my B.Tech degree in Information Technology
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#39](https://github.com/aec-coding-club/AEC-Coding-Club-Website/issues/39) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
-2. ❗️ Closed issue [#35](https://github.com/aec-coding-club/AEC-Coding-Club-Website/issues/35) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
-3. ❗️ Closed issue [#33](https://github.com/aec-coding-club/AEC-Coding-Club-Website/issues/33) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
-4. ❗️ Closed issue [#37](https://github.com/aec-coding-club/AEC-Coding-Club-Website/issues/37) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
-5. 🎉 Merged PR [#50](https://github.com/aec-coding-club/AEC-Coding-Club-Website/pull/50) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
+1. ❗️ Closed issue [#34](https://github.com/aec-coding-club/AEC-Coding-Club-Website/issues/34) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
+2. ❗️ Closed issue [#38](https://github.com/aec-coding-club/AEC-Coding-Club-Website/issues/38) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
+3. ❗️ Closed issue [#41](https://github.com/aec-coding-club/AEC-Coding-Club-Website/issues/41) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
+4. ❗️ Closed issue [#39](https://github.com/aec-coding-club/AEC-Coding-Club-Website/issues/39) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
+5. ❗️ Closed issue [#35](https://github.com/aec-coding-club/AEC-Coding-Club-Website/issues/35) in [aec-coding-club/AEC-Coding-Club-Website](https://github.com/aec-coding-club/AEC-Coding-Club-Website)
 <!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
