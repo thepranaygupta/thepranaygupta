@@ -69,6 +69,9 @@ I am [Pranay Gupta](http://thepranaygupta.github.io/), currently pursuing my B.T
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thepranaygupta&theme=tokyonight" />
 </p>
 
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
 1. 🎉 Merged PR [#398](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/398) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
