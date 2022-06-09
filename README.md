@@ -72,9 +72,9 @@ I am [Pranay Gupta](http://thepranaygupta.github.io/), currently pursuing my B.T
 <!--START_SECTION:waka-->
 
 ```text
-From: 08 May 2022 - To: 07 June 2022
+From: 09 May 2022 - To: 08 June 2022
 
-Other        21 hrs 5 mins   █████████████████████▓░░░   86.00 %
+Other        24 hrs 9 mins   ██████████████████████░░░   87.55 %
 ```
 
 <!--END_SECTION:waka-->
