@@ -99,8 +99,8 @@ Linux                    52 hrs 46 mins      ███████████�
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#287](https://github.com/elebumm/RedditVideoMakerBot/issues/287) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
-2. 🗣 Commented on [#287](https://github.com/elebumm/RedditVideoMakerBot/issues/287) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
+1. 🗣 Commented on [#3](https://github.com/thepranaygupta/thepranaygupta.github.io/issues/3) in [thepranaygupta/thepranaygupta.github.io](https://github.com/thepranaygupta/thepranaygupta.github.io)
+2. 🎉 Merged PR [#3](https://github.com/thepranaygupta/thepranaygupta.github.io/pull/3) in [thepranaygupta/thepranaygupta.github.io](https://github.com/thepranaygupta/thepranaygupta.github.io)
 3. 🗣 Commented on [#287](https://github.com/elebumm/RedditVideoMakerBot/issues/287) in [elebumm/RedditVideoMakerBot](https://github.com/elebumm/RedditVideoMakerBot)
 4. 🎉 Merged PR [#398](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/398) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
 5. ❌ Closed PR [#1](https://github.com/thepranaygupta/thepranaygupta.github.io/pull/1) in [thepranaygupta/thepranaygupta.github.io](https://github.com/thepranaygupta/thepranaygupta.github.io)
