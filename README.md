@@ -99,11 +99,11 @@ Linux                    67 hrs 57 mins      ███████████�
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#4](https://github.com/thepranaygupta/thepranaygupta.github.io/pull/4) in [thepranaygupta/thepranaygupta.github.io](https://github.com/thepranaygupta/thepranaygupta.github.io)
-2. 🗣 Commented on [#3](https://github.com/thepranaygupta/thepranaygupta.github.io/issues/3) in [thepranaygupta/thepranaygupta.github.io](https://github.com/thepranaygupta/thepranaygupta.github.io)
-3. 🎉 Merged PR [#3](https://github.com/thepranaygupta/thepranaygupta.github.io/pull/3) in [thepranaygupta/thepranaygupta.github.io](https://github.com/thepranaygupta/thepranaygupta.github.io)
-4. 🎉 Merged PR [#398](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/398) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
-5. ❌ Closed PR [#1](https://github.com/thepranaygupta/thepranaygupta.github.io/pull/1) in [thepranaygupta/thepranaygupta.github.io](https://github.com/thepranaygupta/thepranaygupta.github.io)
+1. ❗️ Closed issue [#145](https://github.com/SidHacksCommunity/support/issues/145) in [SidHacksCommunity/support](https://github.com/SidHacksCommunity/support)
+2. ❗️ Closed issue [#145](https://github.com/SidHacksCommunity/support/issues/145) in [SidHacksCommunity/support](https://github.com/SidHacksCommunity/support)
+3. ❗️ Closed issue [#145](https://github.com/SidHacksCommunity/support/issues/145) in [SidHacksCommunity/support](https://github.com/SidHacksCommunity/support)
+4. ❗️ Closed issue [#2503](https://github.com/EddieHubCommunity/support/issues/2503) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
+5. ❌ Closed PR [#1](https://github.com/vikkshdotsoni/vikash-kr-soni-portfolio.github.io/pull/1) in [vikkshdotsoni/vikash-kr-soni-portfolio.github.io](https://github.com/vikkshdotsoni/vikash-kr-soni-portfolio.github.io)
 <!--END_SECTION:activity-->
 
 <!-- Sauce: https://github.com/alexandresanlim/Badges4-README.md-Profile -->
