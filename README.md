@@ -70,7 +70,7 @@ I am [Pranay Gupta](http://thepranaygupta.github.io/), currently pursuing my B.T
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-218%20hrs%201%20min-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-228%20hrs%206%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -93,7 +93,7 @@ Windows                  9 hrs 57 mins       ███████████�
 ```
 
 
- Last Updated on 20/07/2022 10:12:15 UTC
+ Last Updated on 20/07/2022 10:42:37 UTC
 <!--END_SECTION:waka-->
 
 ## :zap: Recent Activity
