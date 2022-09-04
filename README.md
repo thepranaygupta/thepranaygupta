@@ -70,7 +70,7 @@ I am [Pranay Gupta](http://thepranaygupta.github.io/), currently pursuing my B.T
 </p>
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-259%20hrs%2032%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-263%20hrs%2056%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -78,20 +78,20 @@ I am [Pranay Gupta](http://thepranaygupta.github.io/), currently pursuing my B.T
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               1 hr 41 mins        ████████████████████░░░░░   82.75% 
-JSON                     20 mins             ████░░░░░░░░░░░░░░░░░░░░░   16.47% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.77%
+JavaScript               6 hrs 4 mins        ███████████████████████░░   94.05% 
+JSON                     21 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   5.65% 
+Other                    1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.29%
 
 🔥 Editors: 
-VS Code                  2 hrs 3 mins        █████████████████████████   100.0%
+VS Code                  6 hrs 27 mins       █████████████████████████   100.0%
 
 💻 Operating System: 
-Windows                  2 hrs 3 mins        █████████████████████████   100.0%
+Windows                  6 hrs 27 mins       █████████████████████████   100.0%
 
 ```
 
 
- Last Updated on 04/09/2022 18:45:04 UTC
+ Last Updated on 04/09/2022 19:09:36 UTC
 <!--END_SECTION:waka-->
 
 ## :zap: Recent Activity
