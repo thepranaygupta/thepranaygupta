@@ -78,20 +78,18 @@ I am [Pranay Gupta](http://thepranaygupta.github.io/), currently pursuing my B.T
 ⌚︎ Time Zone: Asia/Kolkata
 
 💬 Programming Languages: 
-JavaScript               4 hrs 22 mins       ████████████████████████░   99.32% 
-JSON                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   0.61% 
-Other                    0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   0.07%
+No Activity Tracked This Week
 
 🔥 Editors: 
-VS Code                  4 hrs 24 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 💻 Operating System: 
-Windows                  4 hrs 24 mins       █████████████████████████   100.0%
+No Activity Tracked This Week
 
 ```
 
 
- Last Updated on 11/09/2022 18:47:16 UTC
+ Last Updated on 11/09/2022 19:09:51 UTC
 <!--END_SECTION:waka-->
 
 ## :zap: Recent Activity
