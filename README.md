@@ -97,9 +97,9 @@ Windows                  5 hrs 44 mins       ███████████�
 
 ## :zap: Recent Activity
 <!--START_SECTION:activity-->
-1. ❗️ Closed issue [#145](https://github.com/SidHacksCommunity/support/issues/145) in [SidHacksCommunity/support](https://github.com/SidHacksCommunity/support)
-2. ❗️ Closed issue [#145](https://github.com/SidHacksCommunity/support/issues/145) in [SidHacksCommunity/support](https://github.com/SidHacksCommunity/support)
-3. ❗️ Closed issue [#145](https://github.com/SidHacksCommunity/support/issues/145) in [SidHacksCommunity/support](https://github.com/SidHacksCommunity/support)
+1. 🎉 Merged PR [#440](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/440) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+2. ❗️ Closed issue [#444](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/issues/444) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
+3. 🎉 Merged PR [#445](https://github.com/thepranaygupta/Data-Structures-and-Algorithms/pull/445) in [thepranaygupta/Data-Structures-and-Algorithms](https://github.com/thepranaygupta/Data-Structures-and-Algorithms)
 4. ❗️ Closed issue [#2503](https://github.com/EddieHubCommunity/support/issues/2503) in [EddieHubCommunity/support](https://github.com/EddieHubCommunity/support)
 5. ❌ Closed PR [#1](https://github.com/vikkshdotsoni/vikash-kr-soni-portfolio.github.io/pull/1) in [vikkshdotsoni/vikash-kr-soni-portfolio.github.io](https://github.com/vikkshdotsoni/vikash-kr-soni-portfolio.github.io)
 <!--END_SECTION:activity-->
