@@ -22,6 +22,7 @@
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 - My work experience
+  - 🟢 Working as a Software Development Intern at [ProPeeers](https://propeers.in)
   - 🔴 Worked as a Full Stack Developer Intern at [Permissionless](https://prmsnls.xyz)
   - 🔴 Worked as a Full Stack Developer Intern at [Gumlet](https://www.gumlet.com)
   - 🔴 Worked as Frontend Software Developer at [WeFrame.Tech](https://weframe.tech)
