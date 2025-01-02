@@ -20,9 +20,9 @@
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 - My work experience
-  - 🟢 Working as a IT Engineer - Software at [Keysight Technologies](https://www.keysight.com)
-  - 🔴 Worked as a IT Intern at [Keysight Technologies](https://www.keysight.com)
+  - 🟢 Working as an IT Engineer - Software at [Keysight Technologies](https://www.keysight.com)
+  - 🔴 Worked as an IT Intern at [Keysight Technologies](https://www.keysight.com)
   - 🔴 Worked as a Software Development Intern at [ProPeers](https://www.propeers.in)
   - 🔴 Worked as a Full Stack Developer Intern at [Permissionless](https://prmsnls.xyz)
   - 🔴 Worked as a Full Stack Developer Intern at [Gumlet](https://www.gumlet.com)
-  - 🔴 Worked as Frontend Software Developer at [WeFrame.Tech](https://www.weframetech.com)
+  - 🔴 Worked as a Frontend Software Developer at [WeFrame.Tech](https://www.weframetech.com)
