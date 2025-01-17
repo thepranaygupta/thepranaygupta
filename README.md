@@ -14,7 +14,7 @@
 - My socials are listed below
   - Twitter at [thepranaygupta](https://twitter.com/thepranaygupta)
   - LinkedIn at [thepranaygupta](https://www.linkedin.com/in/thepranaygupta)
-  - Portfolio/Website at [thepranaygupta.bio.link](https://thepranaygupta.bio.link)
+  - Portfolio/Website at [pranaygupta.in](https://pranaygupta.in)
   - Mail me at **pranaygupta.aec@gmail.com** regarding any work or if you just wanna connect
 
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
