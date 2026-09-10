@@ -20,7 +20,8 @@
 〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️〰️
 
 - My work experience
-  - 🟢 Working as an IT Engineer - Software at [Keysight Technologies](https://www.keysight.com)
+  - 🟢 Working as a SDE 2 at [House of Edtech](https://houseofedtech.in)
+  - 🔴 Worked as an IT Engineer - Software at [Keysight Technologies](https://www.keysight.com)
   - 🔴 Worked as an IT Intern at [Keysight Technologies](https://www.keysight.com)
   - 🔴 Worked as a Software Development Intern at [ProPeers](https://www.propeers.in)
   - 🔴 Worked as a Full Stack Developer Intern at [Permissionless](https://prmsnls.xyz)
